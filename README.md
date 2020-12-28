@@ -1,4 +1,4 @@
-# Maps
+# Drinks
 
 A web application of drinks. 
 
