@@ -4,9 +4,10 @@ A web application of drinks.
 
 Technologies:\
 Frontend: CSS, HTML5
+
 Backend: Node.js, firestore
 
-run this project with live server extension.
+Run this project with live server extension.
 
 ![Image](https://res.cloudinary.com/dtwqtpteb/image/upload/v1609169080/gaxsripwk5lckooapn9k.png
 )
