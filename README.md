@@ -3,8 +3,7 @@
 A web application of drinks. 
 
 Technologies:\
-Frontend: CSS, HTML5
-
+Frontend: CSS, HTML5\
 Backend: Node.js, firestore
 
 Run this project with live server extension.
