@@ -4,11 +4,11 @@ A web application of drinks.
 
 Technologies:\
 Frontend: CSS, HTML5\
-Backend: Node.js, firestore
+Backend: Node.js, Firebase (firestore)
 
 Run this project with live server extension.
 
-Get a list of drinks:\
+Get a list of drinks ordered by name:\
 ![Image](https://res.cloudinary.com/dtwqtpteb/image/upload/v1609242967/fsypdgpyajt1i3np3bjv.png
 )
 
