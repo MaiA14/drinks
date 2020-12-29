@@ -18,13 +18,15 @@ const renderDrink = (doc) => {
 
     drinksList.appendChild(li);
 
+    // delete a drink
     cross.addEventListener('click', (e) => {
         e.stopPropagation();
         let id = e.target.parentElement.getAttribute('data-id');
-        db.collection('drinks').doc(id).delete;
-    })
+        db.collection('drinks').doc(id).delete();
+    });
 }
 
+// add a drink
 form.addEventListener('submit', (e) => {
     e.preventDefault();
     const ingredients = form.ingredients.value;
