@@ -11,9 +11,6 @@ Run this project with live server extension.
 ![Image](https://res.cloudinary.com/dtwqtpteb/image/upload/v1609242550/qvtljxaod8ya5qar4mk1.png
 )
 
-![Image](https://res.cloudinary.com/dtwqtpteb/image/upload/v1609242837/pr9uzeh0y0dqo4vxtml3.png
-)
-
 ![Image](https://res.cloudinary.com/dtwqtpteb/image/upload/v1609169605/mupbfoigiuvvgf3wrjaj.png
 )
 
